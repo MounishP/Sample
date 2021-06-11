@@ -6,6 +6,8 @@
 <meta charset="ISO-8859-1">
 <title>Display User</title>
 </head>
+<link type="text/css" rel="stylesheet"
+	href="${pageContext.request.contextPath}/files/style.css">
 <body bgcolor="yellow">
 	Name : ${user.name}
 	<p></p>
